@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @divyagala1135
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning electronics and telecommunications engineering at KJSCE FY BTECH
-- 💞️ I’m looking to collaborate on CODING
+- 👀 I’m interested in data science, AI, & ewly emerging electronic circuits. 
+- 🌱 I’m currently learning Electronics and Telecommunications engineering at KJSCE FY BTECH
 - 📫 How to reach me 9321767161
 
 <!---
