@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @divyagala1135
-- 👀 I’m interested in data science, AI, & ewly emerging electronic circuits. 
+- 👀 I’m interested in data science, AI, & newly emerging electronic circuits. 
 - 🌱 I’m currently learning Electronics and Telecommunications engineering at KJSCE FY BTECH
 - 📫 How to reach me 9321767161
 
